@@ -1,2 +1,2 @@
-# Lab958331
-This is repository of 652110218-Krergunchai-Cunatarakul-Yong
+# hcg-chaper-1
+This is repository of 560651023-HCG-chapter1
